@@ -39,3 +39,18 @@ function moveDodgerRight() {
         dodger.style.left = `${left + 1}px`;
     }
 }
+//up
+// document.addEventListener('keydown', function(e) {
+//   if (e.key === "ArrowUp") {
+//     moveDodgerUp();
+//   }
+// });
+
+// function moveDodgerUp() {
+//   const leftNumbers = dodger.style.left.replace('px',2);
+//   const left = parseInt('',2);
+    
+//     if (left = 38) {
+//       dodger.style.left = `${left + 5}px`;
+//   }
+// }
